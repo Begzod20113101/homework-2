@@ -1,0 +1,476 @@
+.logo{
+    background-color: black;
+    height: 20px;
+    justify-content: space-around;
+margin: 0 auto;
+width: 1330px;
+}
+.bonner{
+    margin: 0 auto;
+}
+.logo_ul{
+    justify-content: space-around;
+    text-align: center;
+}
+.logo_link{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 12px;
+    justify-content: space-around;
+    margin: 20px;
+}
+.conteiner{
+    width: 1327px;
+    height: 150px;
+    margin: 0 auto;
+}
+.container_nav{
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin: 30px;
+}
+.container_img{
+    margin: 30px;
+}
+.container_ul{
+    text-align: center;
+}
+.container_ul_link{
+    text-decoration: none;
+    font-size: 13px;
+color: black;
+margin: 30px;
+}
+.container_ul_link1{
+    color: #F873AF;
+    text-decoration: none;
+    font-size: 13px;
+}
+.card{
+    width: 1327px;
+    height: 636px;
+    background: #292933;
+    margin: 0 auto;
+}
+.card_box{
+    position: absolute;
+    color: aliceblue;
+margin-left: 10%;
+margin-top: 10%;
+
+}
+.card_box_main{
+    width: 314px;
+    font-size: 32px;
+}
+.card_box_text{
+    font-size: 17px;
+    width: 254px;
+}
+.card_box_button{
+    font-size: 15px;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background: #B69B89;
+    border-radius: 100px;margin-top: 40px;
+    border: 1px solid #B69B89;
+}
+.card_box_img{
+    width: 900px;
+    margin-left: 275px;
+    margin-top: -395px;
+    height: 636px;
+}
+.tew{
+    width: 1327px;
+    background-color: white;
+    height: 636px;
+    margin: 0 auto;
+}
+.tew_box{
+    margin-left: 150px;
+}
+.tew_main{
+    width: 553px;
+    font-size: 22px;
+margin-left: 200px;
+margin-top: 79px;
+}
+.tew_box_main{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.tew_box_text{
+  width: 330px;
+  margin-left: 40px;
+}
+.tew_box_2{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+.tew_box_2_main{
+    font-size: 20px;
+    margin-left: 60px;
+}
+.tew_box_2_text{
+  width: 330px;
+  margin-left: 40px;
+}
+.flowers{
+    width: 1327px;
+    height: 717px;
+    margin: 0 auto;
+    background: #F6F3F1;
+}
+.flovers_main{
+
+    position: absolute;
+    
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.flowers_box{
+    position: absolute;
+    display: flex;
+    margin-left: 480px;
+    margin-top: 100px;
+}
+.flowers_text{
+    margin: 20px;
+}
+.flowers_box_card{
+    display: flex;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.flawers_card{
+    margin:10px;
+}
+.flowers_card_img{
+    width: 200px;
+    height: 200px;
+}
+.flowers_card_main{
+    text-align: center;
+}
+.flowers_card_text{
+    text-align: center;
+}
+.flowers_card_img:hover{
+    z-index: 3;
+    width: 200px;
+height: 300px;
+background-color: white;
+}
+.leaf{
+    width: 1327px;
+    background-color: white;
+    height: 636px;
+    margin: 0 auto;
+}
+.leaf_box{
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.leaf_main{
+    margin-left: 40px;
+}
+.leaf_text{
+    width: 384px;
+    margin-left: 40px;
+}
+.leaf_box_2{
+margin-left: 700px;
+margin-top: -450px;
+}
+.leaf_box_main{
+    margin-left: 0px;
+}
+.leaf_box_text{
+    width: 384px;
+    margin-left: 40px;
+}
+.minus{
+    width: 1327px;
+    height: 645px;
+    margin: 0 auto;
+    background: #F6F3F1;
+}
+.minus_main{
+text-align: center;
+}
+.minus_box{
+    display: flex;
+    text-align: center; 
+    margin-left: 9%;
+    margin-top: 10%;
+}
+.minus_card{
+    margin: 10px;
+}
+.minus_card_main{
+    text-align: center;
+    font-size: 16px;
+}
+.invite{
+    width: 1327px;
+    height: 344px;
+    background: #292933;
+    margin: 0 auto;
+    border: 1px solid #292933;
+
+}
+.inite_main{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.inite_text{
+    color: white;
+    text-align: center;
+}
+.inite_card{
+    margin-top: 5%;
+    text-align: center;
+}
+.inite_input{
+    border-radius: 30px;
+    
+    height: 30px;
+}
+.inite_button{
+    background: #B69B89;
+    border: 1px solid #B69B89;
+    width: 100px;
+    height: 35px;
+    border-radius: 30px;
+}
+.cookis{
+    width: 1327px;
+    height: 719px;
+    margin: 0 auto;
+    background: #F6F3F1;
+}
+.cookis_box{
+    display: flex;
+    text-align: center;
+    margin-left: 20%;
+
+}
+.cokis_main{
+    text-align: center;
+}
+.cookis_card{
+    width: 400px;
+    height: 230px;
+    background: white;
+border: 1px solid white;
+margin: 10px;
+}
+.cookis_card_2{
+    width: 450px;
+    margin-top: 1%;
+    height: 230px;
+    background-color: white;
+    
+}
+.cokis_card_main{
+margin-left: -180px;
+margin-top: 40px;
+font-size: 16px;
+}
+.cookis_card_main_box{
+    margin-left: 200px;
+    font-size: 16px;
+    margin-top: -100px;
+}
+.cokis_card_text{
+    margin-left: -160px;
+}
+.cokis_card_box_text{
+    margin-left: 220px;
+}
+.consult_box{
+        display: flex;
+    margin-top: 130px;
+    margin-left: 300px;
+}
+.cokis_consult{
+    margin-left: 320px;
+}
+.cokis_consult_box_2{
+margin-left: 750px;
+margin-top: -110px;
+}
+.consult_button{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    margin-left: 200px;
+    border-radius: 100px;
+    color: white;
+    background-color: black;
+    margin-top: -70px;
+}
+.consult_button_box_2{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    margin-left: 200px;
+    border-radius: 100px;
+    color: white;
+    background-color: black;
+    margin-top: -70px;
+}
+.section_box_img_text_mani{
+width: 470px;
+margin-left: 300px;
+margin-top: 103px;
+font-size: 22px;
+}
+.section_box_img_text{
+    width: 1327px;
+    height: 1100px;
+    background-color: white;
+    margin: 0 auto;
+}
+.ser{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.ser_2{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -10px;
+}
+.sert_3{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -100px;
+}
+.ser_main{
+    margin-left: 200px;
+    font-size: 22px;
+}
+.ser_main_2{
+    color: #B69B89;
+    font-size: 22px;
+    margin-left: 660px;
+    margin-top: -200px;
+}
+img:hover{
+    background: #292933;
+opacity: 0.7;
+}
+.ser_main_3{
+    font-size: 22px;
+    margin-left: 1050px;
+    margin-top: -150px;
+}
+.ser_text{
+    font-size: 14px;
+    margin-top: 280px;
+    margin-left: 200px;
+    width: 276px;
+}
+.ser_text_2{
+    width: 276px;
+font-size: 14px;
+margin-top: -200px;
+margin-left: 660px;
+}
+.ser_text_3{
+    font-size: 14px;
+    width: 254px;
+    margin-left: 1050px;
+    margin-top: -200px;
+}
+.ser_img_4{
+    margin-left: 150px;
+    margin-top: 350px;
+}
+.ser_img_5{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+.ser_img_6{
+    position: absolute;
+    margin-left: 550px;
+}
+h1:hover{
+    color: #B69B89;
+}
+.ser_main_4{
+    margin-left: 200px;
+    font-size: 22px;
+}
+.ser_main_5{
+    width: 213px;
+    margin-left: 660px;
+    margin-top: -15%;
+    font-size: 22px;
+}
+.ser_main_6{
+    margin-left: 1050px;
+    margin-top: -120px;
+}
+.ser_text_5{
+    width: 276px;
+    margin-left: 660px;
+    margin-top: 100px;
+}
+.ser_text_6{
+    width: 276px;
+    margin-left: 1050px;
+    margin-top: -160px;
+}
+.olmosh{
+    width: 1327px;
+    height: 476px;
+    background: #F6F3F1;
+    margin: 0 auto;
+}
+.olmosh_card{
+    display: flex;
+}
+.olmosh_box{
+    width: 627px;
+height: 241px;
+background-color: white ;
+margin: 20px;
+}
+.olmosh_img{
+    margin-top: 53px;
+    margin-left: 40px;
+}
+.olmosh_text{
+    width: 390px;
+    margin-left: 120px;
+    margin-top: -25px;
+}
+.olmosh_main{
+    margin-left: 120px;
+}
+.ofisichniy{
+    width: 1327px;
+    height: 500px;
+    margin: 0 auto;
+}
+.border{
+    width: 1343px;
+height: 441px;
+border: 1px solid;
+margin-top: 50px;
+margin-left: 200px;
+}
+.border_main{
+    font-size: 24px;
+    width: 137px;
+    margin-left: 60px;
+    margin-top: 118px;
+}
